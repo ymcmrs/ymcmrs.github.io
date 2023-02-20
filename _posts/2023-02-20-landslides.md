@@ -8,7 +8,7 @@ tags: Transformers Self-attention Math
 featured_image: '/img/posts/Landslide/landslide_cover.png'
 comments: false
 lead_text: 'Early identification, monitoring, numerical modelling, forecast, and risk evaluaion of upcoming hazardous landslides.'
-external_link: https://advancedcomputervision.github.io/misc/2021/12/20/transformers.html
+external_link: https://ymcmrs.github.io/landslide
 
 
 ---
