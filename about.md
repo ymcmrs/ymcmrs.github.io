@@ -12,7 +12,7 @@ permalink: /about/
 
 Welcome to my personal hub!
 
-My name is Yunmeng Cao (Cao Y.), and I am currently a satellite-geodesy scientist, working in the Geodynamics unit, [GNS Science - Te Pū Ao](https://www.gns.cri.nz/), Aotearoa New Zealand.
+My name is Yunmeng Cao (Cao Y.) and I am currently a satellite-geodesy scientist, working in the Geodynamics unit, [GNS Science - Te Pū Ao](https://www.gns.cri.nz/), Aotearoa New Zealand.
 
 My work focusses on using [satellite radar technology](https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar) to detect Earth surface’s displacements that are associated with a wide range of geophysical and geotechnical processes, such as seismic- and volcanic-activities, earthquake- and climate-induced landslides, underground resource extraction caused surface movements, infrastructure damages, and natural hazards caused surface changes. 
 
