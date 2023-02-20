@@ -1,0 +1,44 @@
+{% include header.html %}
+
+    {% include home-hero.html %}
+
+    <main id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+            {% if site.unrelated_title != '' %}
+            <h2 class="section-title text-center">{{ site.unrelated_title }}</h2>
+            {% endif %}
+            {% if site.unrelated_subtitle != '' %}
+            <p class="section-subtitle text-center">{{ site.unrelated_subtitle }}</p>
+            {% endif %}
+
+            <div class="break"></div>
+
+	    <!-- { for post in paginator.posts } -->
+	    {% for post in site.posts %}
+	      {% if post.type == "unrelated" %}
+	      <a href="{{ post.url | prepend: site.baseurl }}">
+                <div class="wow fadeIn">
+		{% assign mod = forloop.index | modulo:2 %}
+                {% if mod == 0 %}
+                  {% include content-left.html %}
+                {% endif %}
+  
+                {% if mod == 1 %}
+                  {% include content-right.html %}
+                {% endif %}
+              </div>
+	      </a>
+              {% endif %}
+            {% endfor %}
+
+            {% include pagination.html %}
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+{% include footer.html %}

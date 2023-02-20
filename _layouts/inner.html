@@ -1,0 +1,23 @@
+{% include header.html %}
+
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 post">
+
+          {{ content }}
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+{% if page.comments %}
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 post">
+		{% include disqus.html %}
+        </div>
+      </div>
+{% endif %}
+
+{% include footer.html %}
