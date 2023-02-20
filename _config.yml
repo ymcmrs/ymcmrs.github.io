@@ -107,10 +107,10 @@ pagination:
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/about', text: 'About' }
+  #- { url: '/about', text: 'About' }
   #- { url: '/', text: 'All' }
-  #- { url: '/about', text: 'Projects' }
-  #- { url: 'https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en', text: 'Publications' }
+  - { url: '/about', text: 'Projects' }
+  - { url: 'https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en', text: 'Publications' }
   #- { url: '/about', text: 'CV' }
   #- { url: '/about', text: 'Photography' }
   #- { url: '/about', text: 'AutoRealtime' }
