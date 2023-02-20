@@ -8,12 +8,12 @@ tags: Transformers Self-attention Math
 featured_image: '/img/posts/Atmosphere/atmosphere_cover.png'
 comments: false
 lead_text: 'InSAR meteorology and atmospheric delay correction for better displacement mapping.'
-external_link: https://advancedcomputervision.github.io/misc/2021/12/20/transformers.html
+external_link: https://ymcmrs.github.io/atmosphere/
 
 
 ---
 
-# Earthquake triggered slow-moving landslides
+# InSAR atmospheric delay modeling and correction
 
 Update soon ...
 

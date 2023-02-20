@@ -13,7 +13,7 @@ external_link: https://advancedcomputervision.github.io/misc/2021/12/20/transfor
 
 ---
 
-# Earthquake triggered slow-moving landslides
+# Early identification of potential landslides using satellite geodesy technologies
 
 Update soon ...
 
