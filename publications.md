@@ -17,7 +17,7 @@ permalink: /publication/
 
 #4\. **Cao, Y.,** Li, Z., Duan, M., Wei, J. (**2020**). [High-Resolution Water Vapor Maps Obtained by Merging Interferometric Synthetic Aperture Radar and GPS Measurements](https://doi.org/10.1029/2020JD033430). Journal of Geophysical Research: Atmosphere, doi:10.1029/2020JD033430
 
-#3\. Li, Z., **Cao, Y.*,** Wei, J., et al. (**2019**). [Time-series InSAR ground deformation monitoring: Atmospheric delay modeling and estimating](https://doi.org/10.1016/j.earscirev.2019.03.008). Earth-Science Reviews, doi:10.1016/j.earscirev.2019.03.008
+#3\. Li, Z., **Cao, Y.*,** et al. (**2019**). [Time-series InSAR ground deformation monitoring: Atmospheric delay modeling and estimating](https://doi.org/10.1016/j.earscirev.2019.03.008). Earth-Science Reviews, doi:10.1016/j.earscirev.2019.03.008
 
 #2\. **Cao, Y.,** Li, Z., Amelung, F. (**2019**). [Mapping ground displacement by a multiple phase difference-based InSAR approach: with stochastic model estimation and turbulent troposphere mitigation](https://doi.org/10.1007/s00190-019-01248-8). Journal of Geodesy, doi:10.1007/s00190-019-01248-8
 
