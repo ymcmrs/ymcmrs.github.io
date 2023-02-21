@@ -9,9 +9,9 @@ permalink: /publication/
 #### (More details see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
 
 
-#7\. **Cao, Y.,** Hamling, I.J., Massey, C., Upton, P. (**2023**). [Slow‐Moving Landslides Triggered by the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand: A New InSAR Phase‐Gradient Based Time‐Series Approach](https://doi.org/10.1029/2022GL102064). Geophysical Research Letters, doi:10.1029/2022GL102064
-
 #6\. **Cao, Y.,** Jónsson, S., Hreinsdóttir, S. (**2023**). [Iceland Kinematics from InSAR](https://doi.org/10.1029/2022JB025546). Journal of Geophysical Research: Solid Earth, doi:10.1029/2022JB025546
+
+#7\. **Cao, Y.,** Hamling, I.J., Massey, C., Upton, P. (**2023**). [Slow‐Moving Landslides Triggered by the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand: A New InSAR Phase‐Gradient Based Time‐Series Approach](https://doi.org/10.1029/2022GL102064). Geophysical Research Letters, doi:10.1029/2022GL102064
 
 #5\. **Cao, Y.,** Jónsson, S., Li, Z. (**2021**). [Advanced InSAR tropospheric corrections from global atmospheric models that incorporate spatial stochastic properties of the troposphere](https://doi.org/10.1029/2020JB020952). Journal of Geophysical Research: Solid Earth, doi:10.1029/2020JB020952
 
