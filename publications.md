@@ -6,7 +6,7 @@ permalink: /publication/
 ---
 
 ### Selected Peer-Reviewed Publications 
-#### (More details see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
+#### (Full list see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
 
 
 #7\. **Cao, Y.,** Jónsson, S., Hreinsdóttir, S. (**2023**). [Iceland Kinematics from InSAR](https://doi.org/10.1029/2022JB025546). Journal of Geophysical Research: Solid Earth, doi:10.1029/2022JB025546
