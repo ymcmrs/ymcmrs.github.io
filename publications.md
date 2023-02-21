@@ -5,7 +5,7 @@ permalink: /publication/
 
 ---
 
-## Selected Peer-Reviewed Publications 
+### Selected Peer-Reviewed Journal Publications 
 #### (More details see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
 
 
