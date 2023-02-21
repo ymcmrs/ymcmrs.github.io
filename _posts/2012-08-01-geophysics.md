@@ -4,7 +4,7 @@ title: 'Earthquakes and volcanoes'
 date: 2012-09-01 14:15:00
 categories: development
 type: project
-tags: Transformers Self-attention Math
+tags: Earthquake Volcano Displacement InSAR
 featured_image: '/img/posts/Geophysics/geophysics_cover.png'
 comments: false
 lead_text: 'Detecting and modeling seismic and volcanic deformations'

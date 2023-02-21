@@ -4,7 +4,7 @@ title: 'InSAR atmospheric delay modeling, estimation, and correction'
 date: 2012-09-01 14:15:00
 categories: development
 type: project
-tags: Transformers Self-attention Math
+tags: InSAR Atmospherid-delat Water-vapor Displacement
 featured_image: '/img/posts/Atmosphere/atmosphere_cover.png'
 comments: false
 lead_text: 'InSAR meteorology and atmospheric delay correction for better displacement mapping.'
