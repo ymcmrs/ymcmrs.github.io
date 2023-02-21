@@ -110,7 +110,7 @@ nav_item:
   #- { url: '/about', text: 'About' }
   #- { url: '/', text: 'All' }
   - { url: '/projects', text: 'Projects' }
-  - { url: 'https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en', text: 'Publications' }
+  - { url: '/publication', text: 'Publications' }
   #- { url: '/about', text: 'CV' }
   #- { url: '/about', text: 'Photography' }
   #- { url: '/about', text: 'AutoRealtime' }
