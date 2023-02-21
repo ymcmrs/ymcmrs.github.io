@@ -6,7 +6,8 @@ permalink: /publication/
 ---
 
 ## Selected Peer-Reviewed Publications 
-### (more datails see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
+#### (More details see [Google Sholar](https://scholar.google.com/citations?user=MHn0N58AAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yunmeng-Cao))
+
 
 #7\. **Cao, Y.,** Hamling, I.J., Massey, C., Upton, P. (2023). [Slow‐Moving Landslides Triggered by the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand: A New InSAR Phase‐Gradient Based Time‐Series Approach](https://doi.org/10.1029/2022GL102064). Geophysical Research Letters, doi:10.1029/2022GL102064
 
