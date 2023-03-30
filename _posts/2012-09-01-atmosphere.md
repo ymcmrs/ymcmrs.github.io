@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'InSAR atmospheric delay modeling, estimation, and correction'
+title: 'InSAR observation error modeling and mitigation'
 date: 2012-09-01 14:15:00
 categories: development
 type: project
