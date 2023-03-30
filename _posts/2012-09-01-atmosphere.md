@@ -7,13 +7,13 @@ type: project
 tags: InSAR Atmospherid-delay Water-vapor Displacement
 featured_image: '/img/posts/Atmosphere/atmosphere_cover.png'
 comments: false
-lead_text: 'InSAR meteorology and atmospheric delay correction for better displacement mapping.'
+lead_text: 'InSAR observation error mitigation for better displacement mapping. Error or signal? How to model/mitigate?'
 external_link: https://ymcmrs.github.io/atmosphere/
 
 
 ---
 
-# InSAR atmospheric delay modeling and correction
+# InSAR observation error modeling and correction
 
 Update soon ...
 
