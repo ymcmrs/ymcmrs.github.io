@@ -7,7 +7,7 @@ type: project
 tags: InSAR Observation-error Atmospheric-delay Tropospheric-delay Unwrapping-error Orbital-error Decorrelaion-noise
 featured_image: '/img/posts/Atmosphere/atmosphere_cover.png'
 comments: false
-lead_text: 'InSAR observation error mitigation for better displacement mapping. Error or signal? How to model/mitigate?'
+lead_text: 'InSAR observation error mitigation for better geoscience applications. Error or signal? How to model/mitigate?'
 external_link: https://ymcmrs.github.io/atmosphere/
 
 
